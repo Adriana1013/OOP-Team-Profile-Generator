@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.container {
+  background-color: lightblue;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header {
+  background-color: darkcyan;
+  color: whitesmoke;
+}

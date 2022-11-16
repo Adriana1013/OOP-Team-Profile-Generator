@@ -1,4 +1,7 @@
-# Homework-week-10: object Oriented Programming Challenge
+# Homework-week-10: Object Oriented Programming Challenge
+
+## Example
+![A screenshot of my assignment](./assets/Team%20Profiles.png)
 
 ## User Story
 AS A manager
@@ -23,3 +26,8 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+
+ # Questions
+  -You can view my Github by searching: Adriana1013
+  
+  -You can reach me via email: avillegas@gmail.com
